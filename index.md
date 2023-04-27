@@ -34,14 +34,12 @@
 ### [Basic Feature Discovering for Machine Learning](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/basic_feature_discovering_for_machine_learning.py)
 
 
-
----
-
 <!-- **Interactive Version**<br>
 For a better experience, change it to a desktop layout and full-screen mode. The settings are on the bottom right.
 <div id="tableauViz" style="max-width:100%; max-height:400px; overflow:auto;"></div>
 <button onclick="exportToPDF();">Export to PDF</button> -->
 
+{% include image-modal.html %}
 
 ---
 <p>
