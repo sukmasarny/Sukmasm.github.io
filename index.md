@@ -2,10 +2,9 @@
 
 ---
 
-- I'm a graduate of the Computer Science and Electronics Department from Universitas Gadjah Mada with a Bachelor of Science degree.
-- As a data enthusiast, I have a strong growth mindset. I take various courses to improve my skills in the data science field.
+- I'm a graduate of the Chemical Engineering Department from Jayabaya University with a Bachelor of Chemical Engineering degree.
+- As a data enthusiast, I have a strong growth mindset. I take various courses to improve my skills in the data science field
 - I'm a quick learner, detail-oriented, and able to communicate technical matters in a simple way. 
-- I have certification from Huawei in artificial intelligence and I’m interested in a career as a data scientist.
 
 [Download Curriculum Vitae](https://github.com/sukmasarny/curriculum-vitae/blob/main/CV.pdf)
 
@@ -52,8 +51,6 @@ For a better experience, change it to a desktop layout and full-screen mode. The
     Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>
     |
     Umbrella icons created by <a href="https://www.flaticon.com/free-icons/umbrella" title="umbrella icons">photo3idea_studio &mdash; Flaticon</a>
-    |
-    Github readme stats created by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
     |
     Github readme stats created by <a href="https://github.com/adhang/github-readme-stats">adhang</a>
   </small>
