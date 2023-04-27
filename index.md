@@ -17,35 +17,26 @@
 ## GitHub
 ---
 
-[![Adhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhang&show_icons=true&hide=issues,contribs&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA)](https://github.com/adhang)
+[![sukmasarny GitHub stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&hide=issues,contribs&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA)](https://github.com/sukmasarny)
 
-[![Adhang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhang&layout=compact&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA&langs_cont=10)](https://github.com/adhang)
+[![sukmasarny top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhang&layout=compact&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA&langs_cont=10)](https://github.com/sukmasarny)
 
-### [Data Science Bootcamp - Digital Skola](https://adhang.github.io/pages/github-data-science-digital-skola)
 
-### [Learn Data Science](https://adhang.github.io/pages/github-learn-data-science)
+### [Android Malware](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Android_Malware.py)
 
-### [Learn Machine Learning with TensorFlow](https://adhang.github.io/pages/github-learn-tensorflow)
+
 
 ---
 ## Data Science Projects
 ---
 
-### [LendingClub - Loan Credit Risk Prediction](https://adhang.github.io/pages/project-lendingclub-loan-credit-risk)
+### [Business Decision Research](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Data_Analyst_Project_Business_Decision_Research..ipynb)
 
-### [Telco Customer Churn Prediction](https://adhang.github.io/pages/project-telco-customer-churn)
+### [Basic Feature Discovering for Machine Learning](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/basic_feature_discovering_for_machine_learning.py)
 
-### [Boston House Prices Prediction](https://adhang.github.io/pages/project-boston-house-prices)
 
-### [Iris Flower Classification](https://adhang.github.io/pages/project-iris-flower)
-
-### [Diabetes Prediction](https://adhang.github.io/pages/project-diabetes-prediction)
 
 ---
-## Tableau
----
-
-### [Indonesia COVID-19 Dashboard](https://adhang.github.io/pages/project-indonesia-covid19-dashboard)
 
 <!-- **Interactive Version**<br>
 For a better experience, change it to a desktop layout and full-screen mode. The settings are on the bottom right.
