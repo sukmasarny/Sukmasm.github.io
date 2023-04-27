@@ -14,7 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   </div>
   
   <div class="social" style="cursor:pointer; background-color:#E97627;" onclick="window.open('https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/', '_blank').focus();">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E97627?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/" alt="Instagram">
   </div>
   
 theme: jekyll-theme-minimal
