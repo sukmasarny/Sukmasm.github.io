@@ -20,11 +20,6 @@
 
 [![sukmasarny top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhang&layout=compact&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA&langs_cont=10)](https://github.com/sukmasarny)
 
-
-### [Android Malware](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Android_Malware.py)
-
-
-
 ---
 ## Data Science Projects
 ---
@@ -32,6 +27,8 @@
 ### [Business Decision Research](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Data_Analyst_Project_Business_Decision_Research..ipynb)
 
 ### [Basic Feature Discovering for Machine Learning](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/basic_feature_discovering_for_machine_learning.py)
+
+### [Android Malware](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Android_Malware.py)
 
 
 <!-- **Interactive Version**<br>
