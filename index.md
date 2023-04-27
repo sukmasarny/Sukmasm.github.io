@@ -54,5 +54,7 @@ For a better experience, change it to a desktop layout and full-screen mode. The
     Umbrella icons created by <a href="https://www.flaticon.com/free-icons/umbrella" title="umbrella icons">photo3idea_studio &mdash; Flaticon</a>
     |
     Github readme stats created by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+    |
+    Github readme stats created by <a href="https://github.com/adhang/github-readme-stats">adhang</a>
   </small>
 </p>
