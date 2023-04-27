@@ -43,7 +43,6 @@ For a better experience, change it to a desktop layout and full-screen mode. The
 <div id="tableauViz" style="max-width:100%; max-height:400px; overflow:auto;"></div>
 <button onclick="exportToPDF();">Export to PDF</button> -->
 
-{% include image-modal.html %}
 
 ---
 <p>
